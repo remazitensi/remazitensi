@@ -6,13 +6,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remazitensi&show_icons=true&theme=radical)
 
 <p align="center">
-    **Languages and Tools**
+    Languages and Tools
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,python)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,python" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,notion" />
   </a>
 </p>
