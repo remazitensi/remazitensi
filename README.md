@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remazitensi&show_icons=true&theme=radical)
 
 <p align="center">
-    Tech Stacks
+    **Languages and Tools**
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,python)](https://skillicons.dev)
