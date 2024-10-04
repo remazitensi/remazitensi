@@ -26,6 +26,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,python" />
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,notion" />
+    <img src="https://skillicons.dev/icons?i=git,docker,notion" />
   </a>
 </p>
