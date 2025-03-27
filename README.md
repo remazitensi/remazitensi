@@ -15,8 +15,6 @@
 
 **또한, [블로그](https://remazitensi.tistory.com/)를 통해 개발 공부 과정과 배운 내용을 정리하여 공유하고 있으며, 꾸준히 성장하는 모습을 기록하고 있습니다.**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fremazitensi&count_bg=%2384DDFF&title_bg=%23BFE9ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remazitensi&show_icons=true&theme=radical)
 
 <p align="center">
